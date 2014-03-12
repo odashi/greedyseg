@@ -1,3 +1,6 @@
+# Executable files
+split_gdp
+
 # Compiled Object files
 *.slo
 *.lo
